@@ -28,3 +28,7 @@ python kompleksitas_algoritma.py
 
 Program menampilkan rincian operasi untuk contoh target `Eka` di posisi ke-5 dan
 tabel pola untuk `n = 5, 10, 20, 50, 100`.
+
+## Dosen
+
+Hardika Khusnuliawati, S.Kom., M.Kom
